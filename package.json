@@ -1,0 +1,22 @@
+{
+  "name": "movieql",
+  "version": "1.0.0",
+  "description": "Movie API with Graphql",
+  "main": "index.js",
+  "repository": "https://github.com/Price3258/movieql.git",
+  "author": "Wontae Kim",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^1.19.3"
+  },
+  "scripts": {
+    "start": "nodemon --exec babel-node index.js"
+  },
+  "devDependencies": {
+    "babel-node": "^0.0.1-security",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "babelcli": "^0.0.2-security"
+  }
+}
