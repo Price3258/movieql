@@ -7,7 +7,7 @@
   "author": "Wontae Kim",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "graphql-yoga": "^1.18.3",
     "node-fetch": "^2.6.0",
     "nodemon": "^1.19.3"
